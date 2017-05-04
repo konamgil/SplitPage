@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="family">
+        <item>고기정</item>
+        <item>고남길</item>
+        <item>노미숙</item>
+        <item>고남길</item>
+        <item>최가영</item>
+        <item>하랑이</item>
+    </string-array>
+</resources>
